@@ -1,8 +1,9 @@
 &emsp;
-# Physics 
+# 圆周运动
+<div align=center>
+    <img src="imgs/0-9.png" width=200>
+</div>
 
-
-## 圆周运动
 ### 1 运动方程
 >分量式
 $$x=R \cos \omega t, y=R \sin \omega t, z=0$$
